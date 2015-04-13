@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html itemscope="" itemtype="http://schema.org/Event" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ANZSUP 2015: {{ page.title }}</title>
+
+    <!-- Bootstrap core CSS -->
+    <!-- http://getbootstrap.com/customize/?id=6281218 -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/anzsup.css" rel="stylesheet">
+
+    <link rel="shortcut icon" href="images/favicon.png">
+    <link href='http://fonts.googleapis.com/css?family=Merriweather:300,400,400italic,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700' rel='stylesheet' type='text/css'>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- meta-data for google+ -->
+    <meta itemprop="name" content="ANZSUP 2015">
+    <meta itemprop="description" content="The Victorian Summer School in Ultracold Physics, Melbourne, 2014.">
+    <link rel="canonical" href="http://www.anzsup.org/2015">
+
+    <!-- meta-data for facebook -->
+    <meta property="og:title" content="Victorian Summer School in Ultracold Physics">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://www.anzsup.org/2015">
+    <meta property="og:image" content="">
+    <meta property="og:site_name" content="ANZSUP 2015">
+</head>
+<body>
+
+    <div id="wrap">
+
+    <div class="navbar navbar-default" role="navigation">
+    <div class="container">
+      <div class="navbar-header">
+      <div class="navbar-brand">
+        <span class="anzsup-abbrev">anzsup</span> <span class="anzsup-year">2015</span>
+      </div>
+      </div>
+      <ul class="nav navbar-nav">
+        {% assign pages_list = site.pages %}
+        {% assign group = 'navigation' %}
+        {% include pages_list %}
+      </ul>
+    </div>
+    </div>
+
+    <div class="container">
+
+    {{content}}
+
+    </div>
+
+    </div>
+
+    <div id="footer">
+      <div class="container">
+      <div class="row">
+      <div class="col-md-12">
+        <small>
+        <p class="text-muted credit">
+            &copy; Australian and New Zealand School in Ultracold Physics, 2015 |
+            Site by Bogdan Opanchuk.
+            Powered by <a href="http://jekyllrb.com/">Jekyll</a> and <a href="http://getbootstrap.com">Bootstrap</a>.
+        </p>
+        </small>
+      </div>
+      </div>
+      </div>
+    </div>
+</body>
+</html>
