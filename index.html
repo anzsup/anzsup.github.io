@@ -6,15 +6,7 @@ group_position: 1
 ---
 
     <!-- JS for google+ button -->
-    <script type="text/javascript">
-      window.___gcfg = {lang: 'en-GB'};
-
-      (function() {
-        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-        po.src = 'https://apis.google.com/js/plusone.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-      })();
-    </script>
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
 
     <!-- JS for facebook button -->
     <div id="fb-root"></div>
@@ -22,7 +14,7 @@ group_position: 1
       var js, fjs = d.getElementsByTagName(s)[0];
       if (d.getElementById(id)) return;
       js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
 
@@ -96,14 +88,13 @@ group_position: 1
         <h3>Spread the word!</h3>
 
         <!-- +1 button -->
-        <g:plusone size="medium"></g:plusone>
+        <div class="g-plusone" data-size="medium" data-href="http://anzsup.org/2015"></div>
 
         <!-- Twitter -->
-        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.vssup.org" data-text="Summer School in Ultracold Physics">Tweet</a>
-        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://anzsup.org/2015" data-text="ANZSUP 2015" data-dnt="true">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
         <!-- facebook button -->
-        <div class="fb-like" data-href="http://www.vssup.org" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div>
+        <div class="fb-like" data-href="http://www.anzsup.org/2015" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
 
     </div>
 
