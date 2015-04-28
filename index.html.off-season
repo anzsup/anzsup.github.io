@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html itemscope="" itemtype="http://schema.org/Event" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ANZSUP: Australian and New Zealand School in Ultracold Physics</title>
+
+    <!-- Bootstrap core CSS -->
+    <!-- http://getbootstrap.com/customize/?id=6281218 -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/anzsup.css" rel="stylesheet">
+
+    <link rel="shortcut icon" href="images/favicon.png">
+    <link href='http://fonts.googleapis.com/css?family=Merriweather:300,400,400italic,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700' rel='stylesheet' type='text/css'>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- meta-data for google+ -->
+    <meta itemprop="name" content="ANZSUP">
+    <meta itemprop="description" content="Australian and New Zealand School in Ultracold Physics">
+    <link rel="canonical" href="http://www.anzsup.org">
+
+    <!-- meta-data for facebook -->
+    <meta property="og:title" content="Australian and New Zealand School in Ultracold Physics">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://www.anzsup.org">
+    <meta property="og:image" content="">
+    <meta property="og:site_name" content="ANZSUP">
+</head>
+<body>
+
+<div class="container">
+
+<div class="row">
+    <div class="col-md-12">
+    <div class="jumbotron">
+        <h1><span class="anzsup-abbrev">anzsup</span></h1>
+        <p class="lead">Australian and New Zealand School in Ultracold Physics</p>
+    </div>
+    </div>
+</div>
+
+
+<div class="row">
+
+    <div class="col-md-2">
+        <a href="2015">
+        <h1>2015</h1>
+        </a>
+    </div>
+
+    <div class="col-md-10">
+
+        <h2>November 30th &ndash; December 11th</h2>
+
+        <h3>This year the School takes place in Dunedin, New Zealand!</h3>
+
+        <p>The Australian and New Zealand School for Ultracold Physics (ANZSUP) is a graduate summer/winter school aimed at Master level and beginning PhD students. The School focuses on the field of ultra-cold physics &mdash; the science of temperatures below that of outer space, where quantum mechanics rules. It was launched in 2011 as the Victorian Summer School in Ultracold Physics (VSSUP) by Professor Peter Drummond and colleagues and was held three times on the campus of Swinburn University of Technology in Melbourne, Victoria. In 2015 the School moves to New Zealand with a new name: ANZSUP.</p>
+
+    </div>
+
+</div>
+
+
+<div class="row">
+    <div class="col-md-12">
+    <div class="page-header">
+        <h1>Previous years</h1>
+    </div>
+    </div>
+</div>
+
+
+<div class="row">
+
+    <div class="col-md-2">
+        <a href="2014">
+        <h2>2014</h2>
+        </a>
+    </div>
+
+    <div class="col-md-10">
+
+        <h2>January 20th &ndash; January 31st</h2>
+
+        <p>The Victorian Summer School in Ultracold Physics, 2014, was a 9 day summer course of lectures at the postgraduate level, on ultra-cold physics &mdash; the science of temperatures as low as a billionth of one degree above absolute zero. That year, there was a special emphasis on low dimensional systems.</p>
+
+    </div>
+
+</div>
+
+<div class="row">
+<div class="col-md-12">
+<div class="bottom-separator"></div>
+</div>
+</div>
+
+
+<div class="row">
+
+    <div class="col-md-2">
+        <a href="2012">
+        <h2>2012</h2>
+        </a>
+    </div>
+
+    <div class="col-md-10">
+
+        <h2>June 25th &ndash; July 6th</h2>
+
+        <p>The second Victorian Summer School in Ultracold Atomic Physics was held in Melbourne, Australia. The School incorporated approximately 6 lectures per day on current topics in ultracold physics presented by leaders in the field, leaving room for additional tutorials and discussions.</p>
+
+    </div>
+
+</div>
+
+<div class="row">
+<div class="col-md-12">
+<div class="bottom-separator"></div>
+</div>
+</div>
+
+<div class="row">
+
+    <div class="col-md-2">
+        <a href="2011">
+        <h2>2011</h2>
+        </a>
+    </div>
+
+    <div class="col-md-10">
+
+        <h2>January 24th &ndash; Feb 4th</h2>
+
+        <p>The inaugural Victorian Summer School in Ultracold Atomic Physics was held in Melbourne over a two week period toward the end of January 2011. The School incorporated approximately 6 lectures per day, and allowed time for additional tutorials and discussions.</p>
+
+        <p>The primary targets for this school were local graduate students, although interstate and international students were more than welcome to attend.</p>
+
+    </div>
+
+</div>
+
+
+</div> <!-- container -->
+
+
+</body>
+</html>
