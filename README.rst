@@ -1,6 +1,6 @@
--------------
-VSSUP website
--------------
+--------------
+ANZSUP website
+--------------
 
 This is a static website generated using Jekyll.
 
