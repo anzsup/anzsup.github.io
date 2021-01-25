@@ -2,4 +2,3 @@ safe: true
 lsi: false
 #highlighter: pygments
 exclude: ["README.rst"]
-keep_files: ["2019", "2019/_assets"]
