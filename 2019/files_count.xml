@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<pagescount>
+	<html_total>32</html_total>
+	<html_done>32</html_done>
+	<img>37</img>
+	<js>7</js>
+	<css>3</css>
+	<pdf/>
+	<doc/>
+	<xls/>
+	<ppt/>
+	<swf/>
+	<mp3/>
+	<mp4/>
+	<xml/>
+	<json/>
+	<txt/>
+	<fonts>8</fonts>
+	<scraping_reload>1</scraping_reload>
+	<is_pretty_url>false</is_pretty_url>
+	<is_ebn>false</is_ebn>
+	<email>joachim.brand@gmail.com</email>
+	<theme_name>122197</theme_name>
+	<server_url_front_page>https://www.waybackmachinedownloader.com/scraping/files/demo/otago.ac.nz_joachim.brand_gmail.com_arpubafm4q/</server_url_front_page>
+	<no_www_url>otago.ac.nz</no_www_url>
+	<hosted_domain/>
+	<original_archive_url>https://web.archive.org/web/20190126035232/https://www.otago.ac.nz/dodd-walls/events/anzsup/index.html</original_archive_url>
+	<final_archive_url>https://web.archive.org/web/20190126035232/https://www.otago.ac.nz/dodd-walls%2Fevents%2Fanzsup%2Findex.html</final_archive_url>
+	<front_page_code_date>20190126035232</front_page_code_date>
+	<total_urls_from_api/>
+	<max_reached_live>false</max_reached_live>
+	<scrape_other_captures>false</scrape_other_captures>
+	<total_size>2852</total_size>
+</pagescount>
