@@ -1,4 +1,4 @@
 safe: true
 lsi: false
 #highlighter: pygments
-exclude: ["README.rst"]
+exclude: ["README.rst","2019"]
